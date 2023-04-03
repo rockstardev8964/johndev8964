@@ -1,4 +1,4 @@
-### Hi there 👋, This is Liming Jin.
+### Hi there 👋, This is John Lee.
 #### I am mobile app developer.
 ![Group 2bannerSwiftui](https://pbs.twimg.com/profile_banners/1449475543875870727/1658999785/1500x500)
 
