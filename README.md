@@ -1,10 +1,8 @@
-### Hi there 👋, This is John Lee.
-#### I am mobile app developer.
-![Group 2bannerSwiftui](https://pbs.twimg.com/profile_banners/1449475543875870727/1658999785/1500x500)
-
+### Hi there 👋, This is David Lee.
+#### I am a mobile app developer.
 
 As a mobile engineer for over 10 years, I have the experience and know-how to create the perfect app for you or if necessary
-discover and fix whatever issues may still exist in your app. 
+Discover and fix whatever issues still exist in your app. 
 I am well versed in all the major mobile development platforms so whether it is kotlin, swift, java, objective-c, or
 looking for some hybrid platforms like Flutter and React native.
 
