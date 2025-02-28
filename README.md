@@ -1,4 +1,4 @@
-### Hi there 👋, This is David Lee.
+### Hi there 👋,
 #### I am a mobile app developer.
 
 As a mobile engineer for over 10 years, I have the experience and know-how to create the perfect app for you or if necessary
